@@ -1,9 +1,6 @@
-from biblioteca import Pessoa
+from biblioteca import Pessoa, ContaBancaria
 
 aluno01=Pessoa("Mychaela", "25", "67")
 
 aluno01.dormi()
-aluno01.falar()
-aluno01.comer("Bolo de chocolate")
-
-
+aluno01.dormi()
