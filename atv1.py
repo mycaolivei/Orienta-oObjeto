@@ -1,4 +1,4 @@
-from biblioteca import Pessoa, ContaBancaria
+from biblioteca import Pessoa
 
 aluno01=Pessoa("Mychaela", "25", "67")
 
